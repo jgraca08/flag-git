@@ -1,2 +1,5 @@
 Primeiro ficheiro
 Primeiro ficheiro com alterações
+
+Função parav converter numeros binários
+etc etc
