@@ -1,1 +1,4 @@
 Segundo ficheiro
+
+Acrescentar outra funcionalidade de código
+com várias opções e fazer um pull request
